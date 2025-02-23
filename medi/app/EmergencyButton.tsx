@@ -8,7 +8,7 @@ export const EmergencyButton = () => (
       position: 'absolute',
       top: 60,
       right: 20,
-      backgroundColor: 'red',
+      backgroundColor: 'blue',
       paddingVertical: 10,
       paddingHorizontal: 14,
       borderRadius: 8,

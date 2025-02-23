@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   emergencyButton: {
-    backgroundColor: 'red',
+    backgroundColor: 'blue',
     paddingVertical: 10,
     paddingHorizontal: 14,
     borderRadius: 8,
